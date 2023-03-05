@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "outFile": "slide_show.js"
+    },
+    "files": [
+        "slide_show.ts"
+    ]
+}
